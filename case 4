@@ -1,0 +1,103 @@
+Drug-Induced Acute Pancreatitis secondary to Sodium Valproate therapy
+
+## 1. Case Scenario and Patient Narrative
+
+### Initial Information
+* Report Type: Initial Spontaneous Report
+* Country of Origin: India
+* Primary Source: Healthcare Professional (Gastroenterologist / Physician)
+
+### Patient Demographics
+* Patient Initials: P.V.
+* Age: 26 years
+* Gender: Female
+* Weight: 58 kg
+* Relevant Medical History: Generalized Tonic-Clonic Seizures (6 months). No prior history of gallbladder disease, alcohol consumption, or hypertriglyceridemia.
+
+### Suspected and Concomitant Drugs
+* Suspected Drug: Sodium Valproate 500 mg orally twice daily (Indication: Generalized Epilepsy; Duration: Initiated 4 weeks prior to emergency admission).
+* Interacting Drug: None.
+* Concomitant Drug: None.
+
+### Case Narrative and Timeline
+* Week 1: Patient initiated on Sodium Valproate 500 mg twice daily.
+* Week 4 (Day 1): Patient presented to an emergency care department in India with severe, constant epigastric pain radiating directly to the back, accompanied by persistent vomiting and low-grade fever (38.1°C).
+* Week 4 (Day 1 Diagnostic Findings):
+  * Serum Amylase: 1,180 U/L (Reference: 30 to 110 U/L).
+  * Serum Lipase: 1,450 U/L (Reference: 10 to 140 U/L; >10x Upper Limit of Normal).
+  * Abdominal Ultrasound & Contrast CT: Diffuse pancreatic enlargement with peripancreatic fluid collection; no gallstones or biliary duct dilatation observed.
+  * Serum Triglycerides & Calcium: Normal limits.
+* Action Taken: Sodium Valproate was immediately and permanently discontinued. Patient was admitted to the High Dependency Unit (HDU) for IV fluid resuscitation, bowel rest, and pain management. Levetiracetam was initiated for seizure control.
+* Outcome: By Day 10 post-discontinuation, abdominal pain resolved, oral intake was tolerated, serum amylase and lipase normalized, and the patient was discharged without long-term pancreatic insufficiency.
+
+---
+
+## 2. Standardized ADR Reporting Form
+
+| Field Category | Data Field | Entry Details |
+| :--- | :--- | :--- |
+| **Patient Information** | Patient Initials | P.V. |
+| | Age / Gender / Weight | 26 Years / Female / 58 kg |
+| **Adverse Event** | Event Term (MedDRA) | Severe Acute Pancreatitis |
+| | Onset Date | Week 4 post-Valproate initiation |
+| | Event Outcome | Recovered Completely |
+| **Suspected Drug** | Drug Name & Dose | Sodium Valproate 500 mg twice daily |
+| | Interacting Drug | None |
+| | Action Taken | Permanently discontinued immediately |
+| **De-challenge & Re-challenge** | De-challenge Result | Positive (Pancreatic enzymes and abdominal pain normalized post-withdrawal) |
+| | Re-challenge Result | Not Performed (Strictly contraindicated due to risk of fatal necrotizing pancreatitis) |
+
+---
+
+## 3. Causality Assessment
+
+### WHO-UMC Causality Scale
+* Classification: Probable / Likely
+* Rationale:
+  1. Clear temporal relationship (onset 4 weeks after initiating Valproate therapy).
+  2. Positive de-challenge with complete clinical and biochemical recovery following drug withdrawal.
+  3. Alternative causes (gallstones, alcohol use, hypertriglyceridemia, viral infection) were ruled out via imaging and laboratory workup.
+
+### Naranjo Causality Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+* Total Naranjo Score: +7
+* Final Causality Classification: Probable (Score Range: 5 to 8)
+
+---
+
+## 4. Seriousness & Severity Analysis
+
+### ICH E2A Seriousness Classification
+* Seriousness Status: Serious
+* Regulatory Criterion Met: Important Medical Event / Required Hospitalization
+* Justification: Acute pancreatitis is a severe, life-threatening abdominal condition that can rapidly progress to hemorrhagic or necrotizing pancreatitis, requiring urgent emergency hospital admission and monitoring.
+
+### Expectedness Assessment
+* Expectedness Status: Expected
+* Reference Safety Information (RSI): Acute pancreatitis is a well-documented labeled risk with a boxed warning for Sodium Valproate, independent of dose or therapy duration.
+
+### Hartwig & Siegel Severity Rating
+* Severity Level: Level 4 (a) - Moderate to Severe
+* Justification: The ADR directly caused emergency hospital admission, required immediate drug cessation, and demanded intensive intravenous supportive care.
+
+---
+
+## 5. Drug Safety Associate Summary & Action Plan
+
+1. **ICSR Processing:** Case validated and processed as a Serious Expected ADR (Valproate-Induced Acute Pancreatitis) originating in India.
+2. **Regulatory Reporting:** Expedited report submitted to the Pharmacovigilance Programme of India (PvPI) / Central Drugs Standard Control Organization (CDSCO) via the ADR Monitoring Centre (AMC) Vigiflow portal within the mandatory 15-calendar-day window.
+3. **Risk Management Recommendation:** Advise clinicians to counsel patients on recognizing early warning signs of acute pancreatitis (abdominal pain, severe nausea) when initiating Valproate therapy.

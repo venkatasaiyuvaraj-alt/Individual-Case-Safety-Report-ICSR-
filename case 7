@@ -1,0 +1,104 @@
+Ceftriaxone-Induced Acute Immune Hemolytic Anemia.
+
+  ## 1. Case Scenario and Patient Narrative
+
+### Initial Information
+* Report Type: Initial Spontaneous Report
+* Country of Origin: India
+* Primary Source: Healthcare Professional (Hematologist / Internal Medicine Physician)
+
+### Patient Demographics
+* Patient Initials: H.N.
+* Age: 38 years
+* Gender: Female
+* Weight: 60 kg
+* Relevant Medical History: Complicated Urinary Tract Infection (UTI). No prior history of autoimmune disease, G6PD deficiency, or baseline anemia.
+
+### Suspected and Concomitant Drugs
+* Suspected Drug: Ceftriaxone 2 g IV once daily (Indication: Complicated UTI; Duration: Initiated 5 days prior to emergency admission).
+* Interacting Drug: None.
+* Concomitant Drug: Paracetamol 650 mg IV as needed for fever (continued without modification).
+
+### Case Narrative and Timeline
+* Day 1: Patient initiated on IV Ceftriaxone 2 g daily for acute complicated UTI.
+* Day 5: Patient developed sudden severe pallor, scleral icterus, dark red-brown urine (hemoglobinuria), fatigue, tachycardia, and back pain.
+* Day 5 Diagnostic Findings:
+  * Hemoglobin: Dropped precipitously from 12.8 g/dL to 5.2 g/dL.
+  * Total Bilirubin: 6.8 mg/dL (Indirect Bilirubin: 5.4 mg/dL).
+  * Lactate Dehydrogenase (LDH): 1,850 U/L (Reference: 140 to 280 U/L).
+  * Serum Haptoglobin: < 10 mg/dL (Severely depleted).
+  * Direct Antiglobulin Test (DAT / Direct Coombs Test): Strongly positive (+3 for IgG and C3d).
+* Action Taken: Ceftriaxone was immediately and permanently discontinued. Patient was admitted to the Intensive Care Unit (ICU) for blood transfusions (washed packed red blood cells), IV methylprednisolone, and aggressive hydration.
+* Outcome: By Day 10 post-discontinuation, hemolytic markers stabilized, Coombs test intensity decreased, hemoglobin rose to 10.4 g/dL, and the patient fully recovered.
+
+---
+
+## 2. Standardized ADR Reporting Form
+
+| Field Category | Data Field | Entry Details |
+| :--- | :--- | :--- |
+| **Patient Information** | Patient Initials | H.N. |
+| | Age / Gender / Weight | 38 Years / Female / 60 kg |
+| **Adverse Event** | Event Term (MedDRA) | Drug-Induced Immune Hemolytic Anemia (DIIHA) |
+| | Onset Date | Day 5 post-Ceftriaxone initiation |
+| | Event Outcome | Recovered Completely |
+| **Suspected Drug** | Drug Name & Dose | Ceftriaxone 2 g IV daily |
+| | Interacting Drug | None |
+| | Action Taken | Permanently discontinued immediately |
+| **De-challenge & Re-challenge** | De-challenge Result | Positive (Hemolysis ceased and lab markers normalized post-withdrawal) |
+| | Re-challenge Result | Not Performed (Strictly contraindicated due to risk of fatal hemolysis) |
+
+---
+
+## 3. Causality Assessment
+
+### WHO-UMC Causality Scale
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal relationship matches the 3 to 7 day onset window for cephalosporin-induced immune hemolytic anemia upon second or prolonged exposure.
+  2. Positive de-challenge with normalization of hemoglobin and bilirubin following drug withdrawal and corticosteroid therapy.
+  3. Alloimmune hemolysis, G6PD deficiency, and viral etiologies were ruled out.
+
+### Naranjo Causality Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+* Total Naranjo Score: +7
+* Final Causality Classification: Probable (Score Range: 5 to 8)
+
+---
+
+## 4. Seriousness & Severity Analysis
+
+### ICH E2A Seriousness Classification
+* Seriousness Status: Serious
+* Regulatory Criterion Met: Life-Threatening / Required Hospitalization (ICU)
+* Justification: Acute severe immune-mediated intravascular hemolysis causes rapid hemodynamic collapse and severe tissue hypoxia, requiring emergency blood transfusion and ICU care.
+
+### Expectedness Assessment
+* Expectedness Status: Expected
+* Reference Safety Information (RSI): Drug-Induced Immune Hemolytic Anemia (DIIHA) is a rare but well-documented warning in beta-lactam and cephalosporin prescribing literature.
+
+### Hartwig & Siegel Severity Rating
+* Severity Level: Level 5 - Severe
+* Justification: The ADR caused severe intravascular hemolysis requiring ICU admission, emergency blood product transfusion, and high-dose corticosteroid intervention.
+
+---
+
+## 5. Drug Safety Associate Summary & Action Plan
+
+1. **ICSR Processing:** Case validated and processed as a Serious Expected ADR (Cephalosporin-Induced Immune Hemolytic Anemia) originating in India.
+2. **Regulatory Reporting:** Expedited report submitted to the Pharmacovigilance Programme of India (PvPI) / Central Drugs Standard Control Organization (CDSCO) via the ADR Monitoring Centre (AMC) Vigiflow portal within the mandatory 15-calendar-day window.
+3. **Risk Management Recommendation:** Recommend immediate Coombs testing in patients developing acute anemia and jaundice during IV cephalosporin therapy.

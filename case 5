@@ -1,0 +1,103 @@
+Isoniazid-Induced Severe Hepatotoxicity (DILI) secondary to Anti-Tubercular Therapy (ATT)
+
+1. Case Scenario and Patient Narrative
+
+### Initial Information
+* Report Type: Initial Spontaneous Report
+* Country of Origin: India
+* Primary Source: Healthcare Professional (Pulmonologist / Hepatologist)
+
+### Patient Demographics
+* Patient Initials: R.K.
+* Age: 48 years
+* Gender: Male
+* Weight: 62 kg
+* Relevant Medical History: Pulmonary Tuberculosis (newly diagnosed). Non-smoker, no history of alcohol consumption, baseline liver function tests were normal prior to treatment initiation.
+
+### Suspected and Concomitant Drugs
+* Suspected Drug: Isoniazid (INH) 300 mg orally once daily (Indication: Pulmonary Tuberculosis; Duration: Initiated 6 weeks prior to admission).
+* Concomitant Anti-TB Regimen: Rifampicin 600 mg, Pyrazinamide 1500 mg, and Ethambutol 1000 mg orally once daily (Fixed-Dose Combination regimen).
+
+### Case Narrative and Timeline
+* Week 1: Patient initiated on standard 4-drug Anti-Tubercular Therapy (ATT) in India following a positive sputum smear for acid-fast bacilli.
+* Week 6 (Day 1): Patient presented to an outpatient clinic with a 5-day history of progressive jaundice, dark tea-colored urine, right upper quadrant abdominal discomfort, severe fatigue, loss of appetite, and persistent nausea.
+* Week 6 (Day 1 Diagnostic Findings):
+  * Total Bilirubin: 8.4 mg/dL (Reference: 0.2 to 1.2 mg/dL; Direct: 5.6 mg/dL).
+  * Alanine Aminotransferase (ALT): 1,120 U/L (Reference: 7 to 56 U/L; >20x Upper Limit of Normal).
+  * Aspartate Aminotransferase (AST): 980 U/L (Reference: 10 to 40 U/L; >24x Upper Limit of Normal).
+  * Alkaline Phosphatase (ALP): 180 U/L (Mild elevation; primary hepatocellular pattern).
+  * Viral Hepatitis Serology (A, B, C, E): Negative.
+* Action Taken: All hepatotoxic anti-tubercular agents (Isoniazid, Rifampicin, Pyrazinamide) were immediately discontinued. Patient was admitted to the hospital and managed with supportive care and non-hepatotoxic background regimen (Ethambutol + Levofloxacin).
+* Outcome: Over the course of 3 weeks post-discontinuation, jaundice completely resolved, serum total bilirubin dropped to 1.1 mg/dL, and ALT/AST levels normalized to baseline levels.
+
+---
+
+## 2. Standardized ADR Reporting Form
+
+| Field Category | Data Field | Entry Details |
+| :--- | :--- | :--- |
+| **Patient Information** | Patient Initials | R.K. |
+| | Age / Gender / Weight | 48 Years / Male / 62 kg |
+| **Adverse Event** | Event Term (MedDRA) | Severe Drug-Induced Liver Injury (DILI) / Hepatotoxicity |
+| | Onset Date | Week 6 post-ATT initiation |
+| | Event Outcome | Recovered Completely |
+| **Suspected Drug** | Drug Name & Dose | Isoniazid (INH) 300 mg daily (Primary suspect) |
+| | Interacting/Co-suspects | Rifampicin 600 mg daily, Pyrazinamide 1500 mg daily |
+| | Action Taken | Permanently discontinued immediately |
+| **De-challenge & Re-challenge** | De-challenge Result | Positive (Transaminases and bilirubin normalized post-withdrawal) |
+| | Re-challenge Result | Not Performed (Sequential re-introduction avoided pending liver enzyme normalization) |
+
+---
+
+## 3. Causality Assessment
+
+### WHO-UMC Causality Scale
+* Classification: Probable / Likely
+* Rationale:
+  1. Temporal sequence matches the typical 4-to-12 week onset window for Isoniazid/ATT-induced acute hepatocellular toxicity.
+  2. Clear positive de-challenge with full biochemical and clinical recovery following drug withdrawal.
+  3. Alternative causes (viral hepatitis A, B, C, E, biliary obstruction, alcoholic liver disease) were ruled out.
+
+### Naranjo Causality Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+* Total Naranjo Score: +7
+* Final Causality Classification: Probable (Score Range: 5 to 8)
+
+---
+
+## 4. Seriousness & Severity Analysis
+
+### ICH E2A Seriousness Classification
+* Seriousness Status: Serious
+* Regulatory Criterion Met: Important Medical Event / Required Hospitalization
+* Justification: Drug-induced liver injury with transaminases >20x ULN and conjugated hyperbilirubinemia satisfies Hy's Law criteria, presenting a severe risk of acute liver failure without immediate intervention.
+
+### Expectedness Assessment
+* Expectedness Status: Expected
+* Reference Safety Information (RSI): Drug-Induced Liver Injury (DILI) is a well-documented, black-box warning risk for Isoniazid and Pyrazinamide in national anti-tubercular treatment guidelines and product inserts.
+
+### Hartwig & Siegel Severity Rating
+* Severity Level: Level 4 (b) - Moderate to Severe
+* Justification: The ADR directly required hospital admission, mandatory permanent withdrawal of the suspect agent, and alteration of primary therapeutic management.
+
+---
+
+## 5. Drug Safety Associate Summary & Action Plan
+
+1. **ICSR Processing:** Case validated and processed as a Serious Expected ADR (ATT-Induced Hepatotoxicity) originating in India.
+2. **Regulatory Reporting:** Expedited report submitted to the Pharmacovigilance Programme of India (PvPI) / Central Drugs Standard Control Organization (CDSCO) via the ADR Monitoring Centre (AMC) Vigiflow portal within the mandatory 15-calendar-day timeline.
+3. **Risk Management Recommendation:** Reinforce routine liver function testing (LFT) at baseline, 2 weeks, 4 weeks, and monthly thereafter for all patients undergoing intensive Anti-Tubercular Therapy under national tuberculosis elimination programs.

@@ -1,0 +1,104 @@
+Anticonvulsant-Induced Stevens-Johnson Syndrome (SJS) secondary to Carbamazepine therapy.
+
+## 1. Case Scenario and Patient Narrative
+
+### Initial Information
+* Report Type: Initial Spontaneous Report
+* Country of Origin: India
+* Primary Source: Healthcare Professional (Dermatologist / Neurologist)
+
+### Patient Demographics
+* Patient Initials: S.K.
+* Age: 34 years
+* Gender: Male
+* Weight: 72 kg
+* Relevant Medical History: Focal epilepsy (newly diagnosed), no prior history of cutaneous drug reactions, no chronic co-morbidities.
+
+### Suspected and Concomitant Drugs
+* Suspected Drug: Carbamazepine 200 mg orally twice daily (Indication: Focal Epilepsy; Duration: Initiated 21 days prior to emergency admission).
+* Interacting Drug: None.
+* Concomitant Drug: Levetiracetam 500 mg orally twice daily (Initiated in ICU as safe replacement anticonvulsant therapy).
+
+### Case Narrative and Timeline
+* Day 1: Patient initiated on Carbamazepine 200 mg twice daily following diagnosis of focal seizures.
+* Day 18: Patient developed high-grade fever (38.8°C), sore throat, and bilateral conjunctival injection.
+* Day 21: Patient developed widespread, painful erythematous macules on face and trunk, accompanied by painful oral mucosal ulcers and lip crusting.
+* Day 22: Epidermal detachment extended to 8 percent of total body surface area (TBSA). Presented to the Emergency Department in India.
+* Admission Diagnostics:
+  * Skin Biopsy: Full-thickness epidermal necrosis with subepidermal bullae formation, confirming Stevens-Johnson Syndrome (SJS).
+  * ALT / AST: 85 U/L / 78 U/L (Mild transaminase elevation).
+  * Viral Screening (HSV, Mycoplasma, EBV): Negative.
+* Action Taken: Carbamazepine was immediately and permanently discontinued. Patient admitted to Intensive Care Unit (ICU) for barrier isolation, continuous fluid resuscitation, systemic cyclosporine, and specialized ophthalmic management.
+* Outcome: On Day 14 post-discontinuation, skin lesions fully re-epithelialized and mucosal ulcerations healed, leaving minor conjunctival scarring.
+
+---
+
+## 2. Standardized ADR Reporting Form
+
+| Field Category | Data Field | Entry Details |
+| :--- | :--- | :--- |
+| **Patient Information** | Patient Initials | S.K. |
+| | Age / Gender / Weight | 34 Years / Male / 72 kg |
+| **Adverse Event** | Event Term (MedDRA) | Stevens-Johnson Syndrome (SJS) / Epidermal Necrolysis |
+| | Onset Date | Day 21 post-Carbamazepine initiation |
+| | Event Outcome | Recovered with Sequelae (Minor ocular mucosal scarring) |
+| **Suspected Drug** | Drug Name & Dose | Carbamazepine 200 mg twice daily |
+| | Interacting Drug | None |
+| | Action Taken | Permanently discontinued immediately |
+| **De-challenge & Re-challenge** | De-challenge Result | Positive (Stabilization and re-epithelialization post-withdrawal) |
+| | Re-challenge Result | Not Performed (Strictly contraindicated due to fatal risk) |
+
+---
+
+## 3. Causality Assessment
+
+### WHO-UMC Causality Scale
+* Classification: Probable / Likely
+* Rationale:
+  1. Plausible temporal sequence (onset 21 days post-initiation, matching the classic 1 to 4 week window for drug-induced SJS).
+  2. Clear positive de-challenge following permanent cessation of Carbamazepine.
+  3. Infectious etiologies (HSV, EBV, Mycoplasma pneumoniae) and alternative drug exposures were excluded.
+
+### Naranjo Causality Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+* Total Naranjo Score: +7
+* Final Causality Classification: Probable (Score Range: 5 to 8)
+
+---
+
+## 4. Seriousness & Severity Analysis
+
+### ICH E2A Seriousness Classification
+* Seriousness Status: Serious
+* Regulatory Criterion Met: Life-Threatening / Required Hospitalization (ICU)
+* Justification: Stevens-Johnson Syndrome is a life-threatening dermatological emergency carrying significant risk of sepsis, multiorgan failure, and death, necessitating immediate ICU admission.
+
+### Expectedness Assessment
+* Expectedness Status: Expected
+* Reference Safety Information (RSI): Severe Cutaneous Adverse Reactions (SCARs), including SJS/TEN, are well-documented labeled risks for Carbamazepine, particularly in individuals carrying the HLA-B*1502 allele common in Asian populations.
+
+### Hartwig & Siegel Severity Rating
+* Severity Level: Level 5 - Severe
+* Justification: The reaction required intensive care unit (ICU) admission and specialized supportive intervention to prevent life-threatening complications.
+
+---
+
+## 5. Drug Safety Associate Summary & Action Plan
+
+1. **ICSR Processing:** Case validated and processed as a Serious Expected ADR (Severe Cutaneous Adverse Reaction / SJS) originating in India.
+2. **Regulatory Reporting:** Expedited reporting submitted to the Pharmacovigilance Programme of India (PvPI) / Central Drugs Standard Control Organization (CDSCO) via Suspected Adverse Drug Reaction Reporting Form (Vigiflow / AMC portal) within the mandatory 15-calendar-day window.
+3. **Risk Management Recommendation:** Recommend promoting HLA-B*1502 genetic screening in India prior to initiating Carbamazepine in alignment with national pharmacovigilance safety advisories.

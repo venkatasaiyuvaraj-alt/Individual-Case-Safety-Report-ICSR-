@@ -1,0 +1,102 @@
+## 1. Case Scenario and Patient Narrative
+
+### Initial Information
+* Report Type: Initial Spontaneous Report
+* Country of Origin: India
+* Primary Source: Healthcare Professional (Physician)
+
+### Patient Demographics
+* Patient Initials: M.R.
+* Age: 64 years
+* Gender: Female
+* Weight: 68 kg
+* Relevant Medical History: Dyslipidemia (5 years), Type 2 Diabetes Mellitus (8 years), newly diagnosed systemic fungal infection. No drug allergies reported.
+
+### Suspected and Concomitant Drugs
+* Suspected Drug 1: Rosuvastatin 20 mg orally once daily (Indication: Dyslipidemia; Duration: 6 months).
+* Suspected Interacting Drug 2: Fluconazole 200 mg orally once daily (Indication: Systemic Candidiasis; Duration: Initiated 9 days prior to emergency admission).
+* Concomitant Drug: Metformin 500 mg orally twice daily (Indication: Type 2 Diabetes; continued without modification).
+
+### Case Narrative and Timeline
+* Month 1: Patient stabilized on Rosuvastatin 20 mg daily.
+* Month 6 (Day 1): Initiated on Fluconazole 200 mg daily for systemic candidiasis.
+* Month 6 (Day 6): Patient developed bilateral upper arm and thigh muscle weakness, diffuse severe myalgia, and fatigue.
+* Month 6 (Day 9): Patient observed dark reddish-brown (tea-colored) urine and presented to the Emergency Department.
+* Admission Diagnostics:
+  * Serum Creatine Kinase (CK): 14,500 U/L (Reference: 30 to 135 U/L)
+  * Serum Creatinine: 2.8 mg/dL (Baseline: 0.9 mg/dL)
+  * Urinalysis: Positive for myoglobin, negative for RBCs
+* Action Taken: Rosuvastatin and Fluconazole were immediately and permanently discontinued. Aggressive IV fluid hydration and urinary alkalinization were started.
+* Outcome: On Day 18 post-discontinuation, myalgia resolved, urine color normalized, serum CK dropped to 180 U/L, and serum creatinine returned to baseline (1.0 mg/dL).
+
+---
+
+## 2. Standardized ADR Reporting Form
+
+| Field Category | Data Field | Entry Details |
+| :--- | :--- | :--- |
+| **Patient Information** | Patient Initials | M.R. |
+| | Age / Gender / Weight | 64 Years / Female / 68 kg |
+| **Adverse Event** | Event Term (MedDRA) | Severe Rhabdomyolysis / Acute Kidney Injury |
+| | Onset Date | Day 6 post-Fluconazole initiation |
+| | Event Outcome | Recovered Completely |
+| **Suspected Drug** | Drug Name & Dose | Rosuvastatin 20 mg daily |
+| | Interacting Drug | Fluconazole 200 mg daily |
+| | Action Taken | Both drugs permanently discontinued |
+| **De-challenge & Re-challenge** | De-challenge Result | Positive (Clinical & lab recovery after drug withdrawal) |
+| | Re-challenge Result | Not Performed (Contraindicated due to renal risk) |
+
+---
+
+## 3. Causality Assessment
+
+### WHO-UMC Causality Scale
+* Classification: Probable / Likely
+* Rationale:
+  1. Clear temporal relationship (onset 5 days after adding Fluconazole to Rosuvastatin).
+  2. Positive de-challenge with complete biochemical recovery upon drug withdrawal.
+  3. Alternative etiologies (trauma, viral infection, exercise) were ruled out.
+
+### Naranjo Causality Scale
+
+| No | Question / Criterion | Yes | No | Unknown | Score |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1 | Are there previous conclusive reports on this reaction? | +1 | 0 | 0 | +1 |
+| 2 | Did the adverse event appear after the suspect drug was given? | +2 | -1 | 0 | +2 |
+| 3 | Did the adverse reaction improve when the drug was stopped? | +1 | 0 | 0 | +1 |
+| 4 | Did the reaction reappear when the drug was readministered? | +2 | -1 | 0 | 0 |
+| 5 | Are there alternative causes that could have caused the reaction? | -1 | +2 | 0 | +2 |
+| 6 | Did the reaction reappear when a placebo was given? | -1 | +1 | 0 | 0 |
+| 7 | Was the drug detected in blood/fluids in toxic concentrations? | +1 | 0 | 0 | 0 |
+| 8 | Was the reaction severe when dose increased / less severe when decreased? | +1 | 0 | 0 | 0 |
+| 9 | Did the patient have a similar reaction to same/similar drugs in past? | +1 | 0 | 0 | 0 |
+| 10 | Was the adverse event confirmed by objective laboratory evidence? | +1 | 0 | 0 | +1 |
+| TOTAL | | | | | +7 |
+
+* Total Naranjo Score: +7
+* Final Causality Classification: Probable (Score Range: 5 to 8)
+
+---
+
+## 4. Seriousness & Severity Analysis
+
+### ICH E2A Seriousness Classification
+* Seriousness Status: Serious
+* Regulatory Criterion Met: Important Medical Event / Required Hospitalization
+* Justification: The acute drug interaction caused severe rhabdomyolysis and secondary renal impairment requiring emergency hospital admission and intensive intravenous treatment to prevent acute kidney failure.
+
+### Expectedness Assessment
+* Expectedness Status: Expected
+* Reference Safety Information (RSI): Statins combined with strong azole antifungal CYP inhibitors carry a documented black-box warning for elevated plasma exposure and myopathy/rhabdomyolysis.
+
+### Hartwig & Siegel Severity Rating
+* Severity Level: Level 4 (a) - Moderate
+* Justification: The ADR directly caused emergency hospital admission and required immediate drug withdrawal along with active intravenous fluid therapy.
+
+---
+
+## 5. Drug Safety Associate Summary & Action Plan
+
+1. **ICSR Processing:** Case validated and processed as a Serious Expected ADR secondary to a major CYP3A4/2C9 drug-drug interaction originating in India.
+2. **Regulatory Reporting:** Expedited reporting submitted to the Pharmacovigilance Programme of India (PvPI) / Central Drugs Standard Control Organization (CDSCO) via the ADR Monitoring Centre (AMC) portal within the mandatory 15-calendar-day timeline.
+3. **Risk Management Recommendation:** Recommend reinforcing clinical decision support systems (CDSS) across local hospital networks to flag statin-azole co-prescriptions.
